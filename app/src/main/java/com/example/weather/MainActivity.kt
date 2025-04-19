@@ -52,7 +52,7 @@ class MainActivity : ComponentActivity() {
                 }
                 getData("Bishkek", this, daysList, currentDay)
                 Image(
-                    painter = painterResource(id = R.drawable.blue_sky),
+                    painter = painterResource(id = R.drawable.ic_bg),
                     contentDescription = "main_bg",
                     modifier = Modifier
                         .fillMaxSize()
