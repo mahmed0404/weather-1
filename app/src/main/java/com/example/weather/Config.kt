@@ -1,4 +1,4 @@
 package com.example.weather
 
 //API
-const val WEATHER_API = "205ad6a62ceb43f9bd593525251904"
+const val WEATHER_API = "be0f38641a1f4840851101509251904"
